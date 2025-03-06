@@ -1,6 +1,6 @@
-# Classeur-numérique NSI Oscar Huon
 
-<h1 align="center">Hi 👋, I'm Oscar HUON</h1>
+
+<h1 align="center">Bonjour 👋, Je me nomme Oscar HUON</h1>
 <h3 align="center">Je suis apprenti en NSI à NDDM</h3>
 
 
